@@ -34,6 +34,7 @@ This project uses a public dataset available on [Kaggle](https://www.kaggle.com/
 Due to storage limitations, the image data is **not included** in this repository.
 
 To run the code, please download the dataset manually from the link above and place it in the following structure:
+```
 RESNET50-BODYPART/
 ├── data/
 │   ├── raw/
@@ -53,7 +54,7 @@ RESNET50-BODYPART/
 ├── LICENSE
 ├── README.md
 └── requirements.txt
-
+```
 **Note**: This dataset is publicly available under the Kaggle license. Please review its usage terms before using it in other contexts.
 
 
