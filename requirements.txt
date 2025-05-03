@@ -1,0 +1,10 @@
+torch==2.1.0
+torchvision==0.16.0
+torchinfo==1.7.2
+numpy>=1.22,<2.0
+pandas
+matplotlib
+seaborn
+scikit-learn
+Pillow
+tqdm
