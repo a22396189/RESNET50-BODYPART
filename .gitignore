@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+.venv/
+env/
+ENV/
+
+# Model checkpoints and image files
+*.pth
+*.png
+
+# OS files
+.DS_Store
